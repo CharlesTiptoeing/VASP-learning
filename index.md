@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## What is density of state (DOS)
 
-You can use the [editor on GitHub](https://github.com/CharlesTiptoeing/VASP-learning/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**One sentence defination**: The density of state (DOS) is the number of different states at a particular energy level that electrons are allowed to occupied(the number of electron states per unit volume per unit energy). **Application**: paramagnetic susceptibility, tranport phenomena of solids depend on this function, and determining the spacing between energy bands in semi-conductors.
 
 ### Markdown
 
