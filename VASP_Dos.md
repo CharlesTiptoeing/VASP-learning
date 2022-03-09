@@ -8,7 +8,10 @@
 ### Density of Electrons
 ![The diagram for the desnity of state for wave](DosAndEnergyDistribution.png)
 
-# Procedure of running DOS calculation on VASP
+### Procedure of running DOS calculation on VASP
+1. Perform a static self consistent calculation (NSW = 0, IBRION = -1) for the DOS.
+
+2. 
 
 
 
