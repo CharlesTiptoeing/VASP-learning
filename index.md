@@ -2,7 +2,8 @@
 
 **One sentence defination**: The density of state (DOS) is the number of different states at a particular energy level that electrons are allowed to occupied(the number of electron states per unit volume per unit energy). **Application**: paramagnetic susceptibility, tranport phenomena of solids depend on this function, and determining the spacing between energy bands in semi-conductors.
 
-### Markdown
+### Denisty of state for wave
+![The diagram for the desnity of state for wave](Picture1.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,6 +32,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 
 
-### Support or Contact
+### References
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1]Density of States. (2021, September 8). https://eng.libretexts.org/@go/page/312 
